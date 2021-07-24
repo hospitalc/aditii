@@ -709,6 +709,10 @@ body {
     justify-content: center; }
     .slider__item-right-content {
       margin-left: 80px; }
+  .slider :nth-child(even).slick-active {
+    border: none; }
+  .slider :nth-child(odd).slick-active {
+    border: none; }
   .slider .slick-arrow {
     margin: -50px 40px 0 40px; }
   .catalog {
