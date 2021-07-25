@@ -16,6 +16,7 @@ $(document).ready(function() {
 		slidesToShow: 3,
 		adaptiveHeight: true,
 		slidesToScroll: 3,
+		arrows: true,
 		responsive: [
 			{
 				breakpoint: 1366,
